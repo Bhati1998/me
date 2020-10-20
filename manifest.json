@@ -1,9 +1,6 @@
-//https://saurabhdaware.in/manifest.json
-
-
 {
-    "name": "Saurabh Daware Portfolio",
-    "short_name": "Saurabh",
+    "name": "Lokesh Bhati Portfolio",
+    "short_name": "Lokesh",
     "icons": [
         {
             "src": "assets/images/logo-192.png",
